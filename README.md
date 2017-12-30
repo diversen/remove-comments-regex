@@ -6,17 +6,17 @@ This means comments are removed in a primitive way
 
 ## Install
 
-    npm install --save remove-comments
+    npm install --save remove-comments-regex
 
 ## Usage
 
-    var removeComments = require('remove-comments')
+    var removeComments = require('remove-comments-regex')
     var noComments = removeComments(someStr)
 
 ## Usage CLI
 
-    npm install -g remove-comments
-    remove-comments test.txt > test-no-comments.txt
+    npm install -g remove-comments-regex
+    remove-comments-regex test.txt > test-no-comments.txt
 
 ## See 
 
