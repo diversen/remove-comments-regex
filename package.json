@@ -1,0 +1,29 @@
+{
+  "name": "remove-comments-regex",
+  "version": "1.0.0",
+  "description": "remove comments from a string using a regex",
+  "main": "index.js",
+  "scripts": {
+    "test": "test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/diversen/remove-comments-regex.git"
+  },
+  "bin": {
+    "remove-comments": "cli.js"
+  },
+  "keywords": [
+    "remove-comments", "regex"
+  ],
+  "author": "dennis iversen",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/diversen/remove-comments-regex/issues"
+  },
+  "homepage": "https://github.com/diversen/remove-comments-regex#readme",
+  "dependencies": {
+    "minimist-mini": "^2.0.9",
+    "read-file": "^0.2.0"
+  }
+}

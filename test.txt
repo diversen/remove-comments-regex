@@ -1,0 +1,9 @@
+/**
+ This is a comment
+ */
+
+This has a comment // the should be removed
+
+// Another comment
+
+And some text :)
