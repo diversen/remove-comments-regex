@@ -1,6 +1,6 @@
 {
   "name": "remove-comments-regex",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "remove comments from a string using a regex",
   "main": "index.js",
   "scripts": {
