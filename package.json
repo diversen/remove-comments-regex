@@ -11,7 +11,7 @@
     "url": "git+https://github.com/diversen/remove-comments-regex.git"
   },
   "bin": {
-    "remove-comments": "cli.js"
+    "remove-comments-regex": "cli.js"
   },
   "keywords": [
     "remove-comments", "regex"
